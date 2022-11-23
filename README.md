@@ -6,7 +6,7 @@
 
 ## Reach Out To Me
 
-[<img width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" color="white" />][linkedin]
+[<img width="32" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" align="left" color="white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/erolemin1/
 
