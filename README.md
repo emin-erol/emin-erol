@@ -28,7 +28,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=emin-erol&theme=radical" display="block">
 </details>
 <br />
-<br />
 <details>
     <summary>:bulb: Most Used Languages</summary>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emin-erol&layout=compact" display="block">
