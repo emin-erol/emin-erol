@@ -15,7 +15,7 @@ I have received comprehensive training in C, C++, C#, Python, Web-Based Programm
 - 
 ## 🌟 Featured Projects
 
-### <a href="https://github.com/yourusername/project1" target="_blank">1. Car Park Automation</a>
+### <a href="https://github.com/emin-erol/otopark-otomasyonu/" target="_blank">1. Car Park Automation</a>
 With this application, vehicles entering the parking lot are recognized using image processing and deep learning. Vehicles in the parking area are detected, and information about whether the parking spaces are occupied or vacant is conveyed to the user interface.
 - 💻 **Technologies:** OpenCV, YOLO, PyQt5, sqlite3
 - 🚀 **Features:** Object Recognition and Tracking, User Interface, Image Processing
