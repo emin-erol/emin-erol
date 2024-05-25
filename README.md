@@ -7,12 +7,14 @@
 I have received comprehensive training in C, C++, C#, Python, Web-Based Programming, Object-Oriented Programming, Algorithm Analysis, and Artificial Intelligence. I am working in the fields of Image Processing and Machine Learning and actively developing web applications using ASP.NET Core.
 - 📍 **Location:** [Istanbul, Turkiye]
 - 🎓 **Education:** [Necmettin Erbakan University, Computer Engineering]
-- 🌐 **Web Sitesi:** [Kişisel Web Siteniz](https://www.ornek.com)
 - 📧 **E-mail:** erolemin@outlook.com.tr
+<!-- - 🌐 **Web Sitesi:** [Kişisel Web Siteniz](https://www.ornek.com) -->
+
 ## 🔧 Technologies I Use
+
 - **Langueages:** C, C++, C#, Python, JavaScript
 - **Framework and Technologies:** ASP.NET Core, EF Core, ASP.NET Identity, ML, Image Processing, OpenCV, YOLO
-- 
+
 ## 🌟 Featured Projects
 
 ### <a href="https://github.com/emin-erol/otopark-otomasyonu/" target="_blank">1. Car Park Automation</a>
